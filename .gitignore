@@ -22,5 +22,3 @@ cache/
 .bash_hist*
 tags
 .temp
-.log/
-yarn-error.log
