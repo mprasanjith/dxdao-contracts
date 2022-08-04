@@ -84,7 +84,7 @@
     "arb-ethers-web3-bridge": "^0.7.3",
     "chai": "^4.2.0",
     "math": "0.0.3",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "openzeppelin-solidity": "2.4.0",
     "prettier": "^2.0.5",
     "prettier-plugin-solidity": "^1.0.0-alpha.55",
