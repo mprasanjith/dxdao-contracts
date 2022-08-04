@@ -85,7 +85,7 @@
     "chai": "^4.2.0",
     "math": "0.0.3",
     "moment": "^2.27.0",
-    "openzeppelin-solidity": "2.4.0",
+    "openzeppelin-solidity": "2.5.1",
     "prettier": "^2.0.5",
     "prettier-plugin-solidity": "^1.0.0-alpha.55",
     "truffle-flattener": "^1.4.4"
