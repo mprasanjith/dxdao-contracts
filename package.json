@@ -81,8 +81,8 @@
   "license": "AGPL-3.0",
   "dependencies": {
     "@maticnetwork/eth-decoder": "^0.0.4",
-    "@openzeppelin/contracts": "4.4.0",
-    "@openzeppelin/contracts-upgradeable": "4.4.0",
+    "@openzeppelin/contracts": "4.8.3",
+    "@openzeppelin/contracts-upgradeable": "4.8.3",
     "@openzeppelin/test-helpers": "^0.5.15",
     "@truffle/hdwallet-provider": "^1.4.0",
     "arb-ethers-web3-bridge": "^0.7.3",
